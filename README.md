@@ -1,6 +1,6 @@
 # Bank
 
-SwifUI Bank App Template. [Medium](https://asilarslan.medium.com/swiftui-ile-banka-uygulamas%C4%B1-geli%C5%9Ftirmek-7a3eacb628c0)
+SwiftUI Bank App Template. [Medium](https://asilarslan.medium.com/swiftui-ile-banka-uygulamas%C4%B1-geli%C5%9Ftirmek-7a3eacb628c0)
 
  
  ![image](https://miro.medium.com/max/1400/1*XM7-pKwl2VqcF0UIZ8rQ2g.png) 
